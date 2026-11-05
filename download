@@ -1,0 +1,4 @@
+node_modules/
+work/
+work-assets.txt
+*.cjs

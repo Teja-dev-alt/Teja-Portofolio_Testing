@@ -1,0 +1,29 @@
+[
+  {
+    "type": "website",
+    "title": "Konsep: Portofolio Teja",
+    "description": "Konsep halaman personal untuk menampilkan profil dan proyek. Ini slot latihan, bukan proyek yang sudah selesai.",
+    "media": "",
+    "role": "Konsep latihan",
+    "category": "Website",
+    "image": "./Asset/img/project-concept-01.svg"
+  },
+  {
+    "type": "website",
+    "title": "Ide: Jelajah Bukittinggi",
+    "description": "Ide latihan landing page bertema tempat dan budaya Bukittinggi. Belum ada demo publik.",
+    "media": "",
+    "role": "Ide latihan",
+    "category": "UI/UX",
+    "image": "./Asset/img/project-concept-02.svg"
+  },
+  {
+    "type": "image",
+    "title": "Rancangan: Study Planner",
+    "description": "Rancangan aplikasi sederhana untuk menyusun jadwal belajar. Disiapkan sebagai target latihan coding.",
+    "media": "",
+    "role": "Target latihan",
+    "category": "Aplikasi",
+    "image": "./Asset/img/project-concept-03.svg"
+  }
+]
