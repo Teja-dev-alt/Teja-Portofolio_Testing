@@ -8,7 +8,7 @@ Setelah GitHub Pages aktif, buka: **https://teja-dev-alt.github.io/Teja-Portofol
 
 Pengunjung repository bisa memilih tautan **Website / Visit site** di kotak About repository, atau membuka alamat di atas. Di GitHub, buka **Settings → Pages**, pilih **Deploy from a branch**, pilih branch `main` dan folder `/(root)`, lalu tekan **Save**. Tunggu proses publikasi selesai.
 
-Repository yang dipakai: `teja-portofolio-test`. Pastikan `index.html` dan folder `Asset/` ada di tingkat teratas repository.
+Repository yang dipakai: `Teja-Portofolio_Testing`. Pastikan `index.html` dan folder `Asset/` ada di tingkat teratas repository.
 
 ## Pratinjau di komputer
 
