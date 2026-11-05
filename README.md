@@ -4,7 +4,7 @@ Portofolio statis dengan tema biru–ungu, galeri konsep latihan, animasi pembuk
 
 ## Lihat website
 
-Setelah GitHub Pages aktif, buka: **https://teja-dev-alt.github.io/teja-portofolio-test/**
+Setelah GitHub Pages aktif, buka: **https://teja-dev-alt.github.io/Teja-Portofolio_Testing/**
 
 Pengunjung repository bisa memilih tautan **Website / Visit site** di kotak About repository, atau membuka alamat di atas. Di GitHub, buka **Settings → Pages**, pilih **Deploy from a branch**, pilih branch `main` dan folder `/(root)`, lalu tekan **Save**. Tunggu proses publikasi selesai.
 
