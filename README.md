@@ -1,6 +1,6 @@
 # Portofolio Teja Lesmana — versi 2
 
-Portofolio statis dengan tema biru–ungu, galeri konsep latihan, animasi pembuka Swarm Rebuild, dan 12 cursor bernama yang ikut bergerak setiap kali pengunjung menggulir ke bagian halaman berikutnya.
+Portofolio statis dengan tema biru–ungu, galeri konsep latihan.
 
 ## Lihat website
 
@@ -16,14 +16,13 @@ Repository yang dipakai: `Teja-Portofolio_Testing`. Pastikan `index.html` dan fo
 2. Buka folder hasil ekstrak.
 3. Klik dua kali `index.html`.
 
-Untuk server lokal: pasang Node.js 20+, buka PowerShell di folder ini, lalu jalankan `npm install`, `npm run build`, dan `npm run dev -- --port 4174`. Buka http://localhost:4174. Tekan Ctrl+C di jendela PowerShell untuk mematikan server.
+Untuk server lokal: pasang Node.js 20+, buka PowerShell di folder ini, lalu jalankan `npm install`, `npm run build`, dan `npm run dev -- --port 4174`. BUKA http://localhost:4174. Tekan Ctrl+C di jendela PowerShell untuk mematikan server.
 
 ## Isi dan edit
 
 - Galeri saat ini berisi tiga **ide latihan** yang secara jelas ditandai sebagai konsep, bukan karya selesai.
 - Tambahkan karya asli ke `src/data/projects.json` memakai field yang sama.
 - Informasi sekolah, kursus, dan profil diedit di `src/app.jsx`.
-- Foto hero: `Asset/img/teja-portrait.png`.
-- Penghargaan dan brand partner tetap kosong hingga Teja memberi datanya.
+- Penghargaan dan brand partner masih proses.
 
 Untuk hosting statis, unggah `index.html` dan folder `Asset/`. Untuk menjaga source agar bisa dibuild lagi, unggah juga `src/`, `scripts/`, `package.json`, `package-lock.json`, dan README. Jangan unggah `node_modules/` atau file sementara.
